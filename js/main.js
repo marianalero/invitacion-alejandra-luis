@@ -343,7 +343,6 @@
 			selNumInv =0;
 		}
 
-		// /https://docs.google.com/forms/d/e/1FAIpQLSeG1_3rXwcGoL0yDzhVTaCU_09jJahIiAIH59PrQh0ZHxZYig/viewform?usp=pp_url&entry.516140191=sss&entry.827025270=222&entry.1599079301=as&entry.465259973=1
 		let url = "https://docs.google.com/forms/d/e/1FAIpQLSeG1_3rXwcGoL0yDzhVTaCU_09jJahIiAIH59PrQh0ZHxZYig/formResponse?entry.516140191="+name+"&entry.827025270="+telefono+"&entry.1599079301="+confirmText+"&entry.465259973="+selNumInv+'&submit=Submit';
 		console.log(url);
 		fetch(url, { method: 'GET', 
