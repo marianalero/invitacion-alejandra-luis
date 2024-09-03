@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5, h6 {
   #qbootstrap-countdown {
     background-size: cover;
     background-repeat: repeat;
-   height: 40vh;
+   height: 50vh;
    background-position-x: 40%!important;
   }
 }
@@ -754,7 +754,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #qbootstrap-countdown .section-heading .datewed {
-  font-size: 38px;
+  font-size: 30px;
   color: white;
   font-family: 'Alex Brush','cursive';
 }
